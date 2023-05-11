@@ -19,7 +19,7 @@ npm install
 To start the project run:
 
 ```bash
-npm run start
+npm run startt
 ```
 
 ---
