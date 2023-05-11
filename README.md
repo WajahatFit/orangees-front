@@ -49,4 +49,4 @@ npm run startt
 - [Presentation slides](https://www.canva.com/design/DAFMet8b2DU/yAa40LmsJSJXSG_ZhM-CCw/edit?utm_content=DAFMet8b2DU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Backend repository](https://github.com/WajahatFit/Apple-Clone-Back-End)
 - [Backend deploy](https://applecloned.herokuapp.com/)
-- [Deployed app]()
+- [Deployed app](https://orangee.netlify.app/)
